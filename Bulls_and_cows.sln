@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bulls_and_cows", "Bulls_and
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Magic_Number", "Magic_Number\Magic_Number.vcxproj", "{06BC9941-3AF9-4698-B0F1-2560E3F5C1A5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dice_Corsair_vs_Pirate_(RussianVersion)", "Dice_Corsair_vs_Pirate_(RussianVersion)\Dice_Corsair_vs_Pirate_(RussianVersion).vcxproj", "{8C1E9526-8287-4272-B806-D1CE0A267B90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{06BC9941-3AF9-4698-B0F1-2560E3F5C1A5}.Release|x64.Build.0 = Release|x64
 		{06BC9941-3AF9-4698-B0F1-2560E3F5C1A5}.Release|x86.ActiveCfg = Release|Win32
 		{06BC9941-3AF9-4698-B0F1-2560E3F5C1A5}.Release|x86.Build.0 = Release|Win32
+		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Debug|x64.ActiveCfg = Debug|x64
+		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Debug|x64.Build.0 = Debug|x64
+		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Debug|x86.Build.0 = Debug|Win32
+		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Release|x64.ActiveCfg = Release|x64
+		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Release|x64.Build.0 = Release|x64
+		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Release|x86.ActiveCfg = Release|Win32
+		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
