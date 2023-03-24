@@ -62,7 +62,7 @@ int main()
 	/*
 	for (int i = 0; i < size; i++)													// тестовый вывод загаданного числа на экран
 	{
-		cout << number[i];
+		cout << Number[i];
 	}
 	cout << endl;
 	*/
