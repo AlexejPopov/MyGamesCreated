@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tic-Tac-Toe", "Tic-Tac-Toe\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Magic_Number_HW", "Magic_Number_HW\Magic_Number_HW.vcxproj", "{CBA9AB68-444E-48A7-A384-75F671C9D3E4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bulls_and_cows_HW", "Bulls_and_cows_HW\Bulls_and_cows_HW.vcxproj", "{B882D508-ECE9-459D-B262-6C8A96102EB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{CBA9AB68-444E-48A7-A384-75F671C9D3E4}.Release|x64.Build.0 = Release|x64
 		{CBA9AB68-444E-48A7-A384-75F671C9D3E4}.Release|x86.ActiveCfg = Release|Win32
 		{CBA9AB68-444E-48A7-A384-75F671C9D3E4}.Release|x86.Build.0 = Release|Win32
+		{B882D508-ECE9-459D-B262-6C8A96102EB6}.Debug|x64.ActiveCfg = Debug|x64
+		{B882D508-ECE9-459D-B262-6C8A96102EB6}.Debug|x64.Build.0 = Debug|x64
+		{B882D508-ECE9-459D-B262-6C8A96102EB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{B882D508-ECE9-459D-B262-6C8A96102EB6}.Debug|x86.Build.0 = Debug|Win32
+		{B882D508-ECE9-459D-B262-6C8A96102EB6}.Release|x64.ActiveCfg = Release|x64
+		{B882D508-ECE9-459D-B262-6C8A96102EB6}.Release|x64.Build.0 = Release|x64
+		{B882D508-ECE9-459D-B262-6C8A96102EB6}.Release|x86.ActiveCfg = Release|Win32
+		{B882D508-ECE9-459D-B262-6C8A96102EB6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
