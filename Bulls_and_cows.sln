@@ -7,10 +7,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bulls_and_cows", "Bulls_and
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Magic_Number", "Magic_Number\Magic_Number.vcxproj", "{06BC9941-3AF9-4698-B0F1-2560E3F5C1A5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dice_Corsair_vs_Pirate_(RussianVersion)", "Dice_Corsair_vs_Pirate_(RussianVersion)\Dice_Corsair_vs_Pirate_(RussianVersion).vcxproj", "{8C1E9526-8287-4272-B806-D1CE0A267B90}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dice_Corsair_vs_Pirate_(CzechVersion)", "Dice_Corsair_vs_Pirate_(CzechVersion)\Dice_Corsair_vs_Pirate_(CzechVersion).vcxproj", "{40A93AE2-BD50-4A46-8FBA-2D6DBD0E1B24}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tic-Tac-Toe", "Tic-Tac-Toe\Tic-Tac-Toe.vcxproj", "{137C98EC-9100-4F5C-8CDF-CB3D3B8C5F36}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Magic_Number_HW", "Magic_Number_HW\Magic_Number_HW.vcxproj", "{CBA9AB68-444E-48A7-A384-75F671C9D3E4}"
@@ -39,22 +35,6 @@ Global
 		{06BC9941-3AF9-4698-B0F1-2560E3F5C1A5}.Release|x64.Build.0 = Release|x64
 		{06BC9941-3AF9-4698-B0F1-2560E3F5C1A5}.Release|x86.ActiveCfg = Release|Win32
 		{06BC9941-3AF9-4698-B0F1-2560E3F5C1A5}.Release|x86.Build.0 = Release|Win32
-		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Debug|x64.ActiveCfg = Debug|x64
-		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Debug|x64.Build.0 = Debug|x64
-		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Debug|x86.ActiveCfg = Debug|Win32
-		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Debug|x86.Build.0 = Debug|Win32
-		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Release|x64.ActiveCfg = Release|x64
-		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Release|x64.Build.0 = Release|x64
-		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Release|x86.ActiveCfg = Release|Win32
-		{8C1E9526-8287-4272-B806-D1CE0A267B90}.Release|x86.Build.0 = Release|Win32
-		{40A93AE2-BD50-4A46-8FBA-2D6DBD0E1B24}.Debug|x64.ActiveCfg = Debug|x64
-		{40A93AE2-BD50-4A46-8FBA-2D6DBD0E1B24}.Debug|x64.Build.0 = Debug|x64
-		{40A93AE2-BD50-4A46-8FBA-2D6DBD0E1B24}.Debug|x86.ActiveCfg = Debug|Win32
-		{40A93AE2-BD50-4A46-8FBA-2D6DBD0E1B24}.Debug|x86.Build.0 = Debug|Win32
-		{40A93AE2-BD50-4A46-8FBA-2D6DBD0E1B24}.Release|x64.ActiveCfg = Release|x64
-		{40A93AE2-BD50-4A46-8FBA-2D6DBD0E1B24}.Release|x64.Build.0 = Release|x64
-		{40A93AE2-BD50-4A46-8FBA-2D6DBD0E1B24}.Release|x86.ActiveCfg = Release|Win32
-		{40A93AE2-BD50-4A46-8FBA-2D6DBD0E1B24}.Release|x86.Build.0 = Release|Win32
 		{137C98EC-9100-4F5C-8CDF-CB3D3B8C5F36}.Debug|x64.ActiveCfg = Debug|x64
 		{137C98EC-9100-4F5C-8CDF-CB3D3B8C5F36}.Debug|x64.Build.0 = Debug|x64
 		{137C98EC-9100-4F5C-8CDF-CB3D3B8C5F36}.Debug|x86.ActiveCfg = Debug|Win32
